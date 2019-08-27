@@ -1,0 +1,441 @@
+
+
+@media (max-width: 1400px){
+    .main_slider_area .rev_slider .tp-leftarrow {
+        left: -35px !important;
+    }
+    .main_slider_area .rev_slider .tp-rightarrow {
+        left: 103% !important;
+    }
+
+}
+
+@media (max-width: 1199px){
+
+    .service_item {
+        padding: 18px 17px 40px 18px;
+        height: 248px;
+    }
+    .dwn_app_area {
+        height: 170px;
+    }
+    .quote-txt-img {
+        float: left;
+        margin-top: 30px;
+        width: 170px;
+    }
+    .dwn_app_area h3 {
+        font-size: 22px;
+        padding-top: 20px;
+    }
+    .dwn_app_area .btn-1 {
+        float: left;
+        margin-right: 10px;
+        width: 140px;
+    }
+    .work-process-list ul li {
+        list-style: none;
+        display: inline-block;
+        margin: 0px 0px 0px;
+        position: relative;
+        padding: 0px 50px;
+    }
+
+}
+
+/* Style sheet for tablet device*/
+@media (max-width: 991px){
+    .service_item {
+        padding: 42px 17px 40px 18px;
+        height: 248px;
+    }
+    .company_item .company_image img {
+        width: 100%;
+    }
+    .manager_image {
+        margin-right: 0px;
+    }
+    .sidebar_area{
+        margin-top: 50px;
+    }
+
+    .carrers_right_content {
+        padding-left: 0px;
+        overflow: hidden;
+        clear: both;
+    }
+    .service_consultation_box {
+        padding: 50px 40px;
+        margin-top: 40px;
+    }
+
+    .contact_us_inner .our_about_image{
+        margin-top: 40px;
+    }
+    .workers_item {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .our_team_area .row {
+        overflow: hidden;
+        margin-bottom: -40px;
+    }
+    .mover-mn-ap {
+        top: -114px;
+        position: absolute;
+        z-index: 2;
+    }
+    .mover-mn-ap img{
+        width: 80%;
+        top: 26px;
+        margin-top: 33px;
+    }
+    /* Start testimonial*/
+    #testimonials {
+        padding: 100px 0;
+        background-color: #f8a555;
+    }
+    /* End testimonial*/
+
+    /* Start work  process*/
+    .work-process-list ul li {
+        list-style: none;
+        display: inline-block;
+        margin: 0px 0px 0px;
+        position: relative;
+        padding: 0px 24px;
+    }
+    .work-process-list ul li::before {
+        content: "\f178";
+        font-family: FontAwesome;
+        position: absolute;
+        right: -21px;
+        top: 50%;
+        font-size: 20px;
+        margin: -37px 0px 0px;
+        color: #000;
+    }
+    /* End work  process*/
+    .footer-top .right-text .box::before{
+        display: none;
+    }
+        /* start blog section*/
+    .latest_news_inner .latest_n_item{
+        margin: 0px auto 40px;
+        float: left;
+    }
+    .latest_news_area .section_title {
+        max-width: 370px;
+        margin: auto;
+    }
+    /* end blog section*/
+
+    .footer_widget .row{
+        margin-bottom: -50px;
+        overflow: hidden;
+    }
+    .f_widget.padd-l-60 {
+        padding-left: 0px;
+    }
+    .f_title {
+        padding-bottom: 25px;
+        margin-top: 35px;
+    }
+    .f_widget .link_widget {
+        margin-bottom: 30px;
+    }
+
+}
+@media (max-width: 767px){
+    .manager_area .our_about_left_content img {
+        padding-bottom: 20px;
+    }
+    .service_box_area {
+        padding: 75px 0px;
+    }
+    .our_service_area {
+        padding: 75px 0px;
+    }
+
+    .latest_news_area {
+        padding: 75px 0px;
+    }
+
+
+    .our_team_area {
+        padding: 75px 0px;
+    }
+    .latest_news_area .latest_news_inner{
+        margin-bottom: -40px;
+        overflow: hidden;
+    }
+    .our_about_area {
+        padding: 75px 0px;
+    }
+
+    .service_area {
+        padding: 75px 0px;
+    }
+    .carrers_area {
+        padding: 75px 0px;
+    }
+    .contact_us_area {
+        padding: 75px 0px;
+    }
+    .error_area .error_content_inner {
+        padding-top: 170px;
+        padding-bottom: 145px;
+    }
+ /*   .header_social li a {
+        line-height: 28px;
+        }*/
+        .banner_area {
+            min-height: 230px;
+        }
+        .banner_area .banner_content h3 {
+            padding-top: 122px;
+        }
+        .service_item {
+            padding: 42px 17px 40px 18px;
+            height: auto;
+        }
+
+        .footer_copyright_inner{
+            padding: 15px 0px;
+        }
+        .footer_copyright_inner .pull-left{
+            float: none !important;
+            text-align: center;
+        }
+        .footer_copyright .footer_copyright_inner .pull-left {
+            padding-left: 0px;
+        }
+        .footer_copyright_inner .pull-right{
+            float: none !important;
+            text-align: center;
+        }
+        .footer_copyright .footer_copyright_inner .pull-right {
+            padding-right: 0px;
+        }
+        .footer_copyright .footer_copyright_inner .pull-left p {
+            line-height: 26px;
+        }
+        .footer_copyright .footer_copyright_inner .pull-right h4 {
+            line-height: 32px;
+        }
+        .manager_area .our_about_left_content {
+            padding-left: 0px;
+        }
+        .main_blog_items {
+            padding-right: 0px;
+        }
+        .about_company .business_divider_img .our_about_image img {
+            width: 100%;
+        }
+        .business_divider_img .b_right_img {
+            display: none;
+        }
+        .table-responsive {
+            border: none;
+        }
+
+    }
+    @media (max-width: 600px){
+
+        .footer_widget .col-xs-6{
+            width: 100%;
+        }
+        .footer_widget .f_widget{
+            max-width: 300px;
+            margin: 0px auto 0px;
+        }
+
+        .banner_area .banner_content h3 {
+            font-size: 34px;
+        }
+        .partner_details_inner .media{
+            text-align: center
+        }
+        .partner_details_inner .media .media-left {
+            width: 100%;
+            display: block;
+            padding-right: 0px;
+            margin-bottom: 40px;
+            text-align: center;
+        }
+        .partner_details_inner .media .media-body {
+            padding-right: 10px;
+            padding-left: 10px;
+        }
+        .service_item_inner .col-xs-6{
+            width: 100%;
+        }
+        .service_item_inner .service_box_item {
+            max-width: 370px;
+            margin: 0px auto 60px;
+        }
+    }
+
+    @media (max-width: 480px){
+        .main_slider_area .rev_slider ul li .slider_text_box .slider_button .main_btn {
+            margin-right: 0px;
+            display: block;
+        }
+        .main_slider_area .rev_slider ul li .slider_text_box .slider_button .main_btn {
+            margin-bottom: 10px;
+        }
+        .sec_middle_title h2 {
+            font-size: 22px;
+        }
+        .company_item .company_image .col-xs-6 {
+            width: 100%;
+            margin-bottom: 30px;
+        }
+        .company_item .company_image .col-xs-6:last-child {
+            margin-bottom: 0px;
+        }
+
+        .error_area .error_content_inner {
+            padding-top: 180px;
+        }
+        .error_area .error_content_inner h1 {
+            font-size: 150px;
+        }
+        .error_area .error_content_inner h3 {
+            font-size: 40px;
+        }
+        .error_area .error_content_inner h5 {
+            font-size: 20px;
+        }
+        .error_area .error_content_inner .submit_btn {
+            width: 280px;
+        }
+        .get_consult_area .pull-left h3 {
+            font-size: 22px;
+            line-height: 28px;
+        }
+        .service_consultation_box {
+            padding: 50px 20px;
+        }
+        .download_area {
+            padding: 26px 15px;
+        }
+        .section_title h2 {
+            font-size: 24px;
+        }
+        .company_history_list .media .media-left {
+            padding-right: 0px;
+            display: block;
+            margin-bottom: 30px;
+        }
+        .company_history_list .media .media-left a {
+            display: inline-block;
+        }
+
+    }
+    @media only screen and (min-width: 320px) and (max-width: 735px) {
+
+.twenty-year h1 {
+    color: #f8a555;
+    float: left;
+    font-family: arial;
+    font-size: 80px;
+    margin: 0;
+}
+
+        .quote-form {
+            margin-top: 50px;
+        }
+        .qoute-mn{
+            display: none;
+        }
+        .quote-txt-img {
+            float: left;
+            margin-top: 30px;
+            text-align: center;
+            width: 100%;
+        }
+        /*end quote form*/
+
+        .dwn_app_area {
+            height: 100%;
+            padding: 40px 0;
+        }
+        .dwn_app_area .btn-col {
+            padding-top: 0px;
+            float: none;
+            text-align: center;
+            margin: auto;
+            display: table;
+        }
+        .dwn_app_area .btn-1{
+            width: 140px;
+        }
+        /*End*/
+        .single-attorney{
+            margin-bottom: 20px;
+        }
+        .video-bx {
+            margin-bottom: 30px;
+        }
+
+        #testimonials .text-box {
+            width: 100%;
+            vertical-align: middle;
+            display: table-cell !important;
+            padding: 10px 0px 0px;
+        }
+        /*End*/
+        .work-process-list ul li {
+            list-style: none;
+            display: inherit;
+            margin: 0px 0px 0px;
+            position: relative;
+            padding: 0px 24px;
+        }
+        .work-process-list ul li::before{
+            display: none;
+        }
+        .our_team_area .col-xs-6{
+            width: 100%;
+        }
+        .faq_area .panel.panel-default .panel-heading .panel-title a{
+            font-size: 14px;
+        }
+        #clients .owl-carousel {
+            height: 130px;
+        }
+        .footer-top .right-text .box {
+            position: relative;
+            padding-left: 15px;
+            padding-top: 0px;
+            padding-bottom: 60px;
+        }
+        .footer-top .right-text::before {
+            content: '';
+            width: 2500px;
+            position: absolute;
+            top: 0px;
+           /* left: 0;*/
+            height: 100%;
+            background: #002945;
+            transform: skew(0deg);
+            z-index: 4;
+        }
+        .footer_widget {
+            padding-bottom: 50px;
+            background-image: none;
+        }    
+        .f_widget.padd-l-60 {
+            padding-left: 0px;
+        }
+        .footer_copyright{
+            margin-top: 25px;
+        }
+        .our_mission_bx .our_mission_image {
+            float: left;
+            box-shadow: 0 0px 17px #d2cfcf;
+            background-color: #FFF;
+            padding: 6px;
+        }
+    }
